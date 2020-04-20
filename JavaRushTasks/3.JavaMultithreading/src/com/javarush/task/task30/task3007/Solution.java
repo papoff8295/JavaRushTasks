@@ -12,7 +12,7 @@ public class Solution {
 
     public static int maxPowerOf2(int x) {
         x |= x >> 1;
-        System.out.println(x);
+
         x |= x >> 2;
         System.out.println(x);
 
