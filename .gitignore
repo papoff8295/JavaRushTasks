@@ -2,6 +2,6 @@
 ## Idea
 #############
 .idea/
+.gitignore
 *.iml
 *.iws
-*.gitignore
